@@ -1,0 +1,10 @@
+{
+  "generator-flask-api": {
+    "appName": "py_back",
+    "database": "none",
+    "databaseMapper": "none",
+    "versioningScheme": "major",
+    "currentVersion": "v1",
+    "urlPrefix": "/api"
+  }
+}
